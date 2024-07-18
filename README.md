@@ -1,1 +1,2 @@
-https://dubai-interactive-map.vercel.app/
+Click the link
+https://homes4life.ae/map/
